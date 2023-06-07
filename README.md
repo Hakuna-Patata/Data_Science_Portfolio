@@ -6,8 +6,9 @@ From 2017-2021 I self-taught myself many different reporting tools and skills re
 
 I am excited to see what the future holds for AI/Machine Learning and I proud to be in the field of Data & Analytics!
 
-
-
 ***
+
+### Project Portfolio
+
 
 
