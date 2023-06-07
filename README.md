@@ -46,3 +46,9 @@ Below are a list of projects completed pertaining to both Data Science & Analyti
 
 - Data Storage and Compression Concepts - (No-SQL, Avro, Protobuff, Parquet)
   - [Python Notebook](https://colab.research.google.com/drive/1Cj690LcWgBgJCDHnkFEg2p8wbkExaisR?usp=sharing)
+
+- DSC 680 - Project 1
+
+- DSC 680 - Project 2
+
+- DSC 680 - Project 3
