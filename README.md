@@ -10,5 +10,14 @@ I am excited to see what the future holds for AI/Machine Learning and I proud to
 
 ### Project Portfolio
 
+Below are a list of projects completed pertaining to both Data Science & Analytics. 
 
+- Firearm Mortality Correlation - EDA
+  - [PowerPoint](https://docs.google.com/presentation/d/1R4MeZwad1nxJrzqVaAel14L3Mm_vDbrZ/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
 
+<br>
+
+- Autism Spectrum Disorder - EDA
+  - [PowerPoint](https://docs.google.com/presentation/d/1US7DDsIgkR-8h73uJgX0iVAmzM6LXaTV/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
+  - [Paper](https://docs.google.com/presentation/d/1US7DDsIgkR-8h73uJgX0iVAmzM6LXaTV/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
+  - [Python Notebook](https://drive.google.com/file/d/1USzXmF8iNmdQNtYVlH6DRFUEzZCpsoVg/view?usp=sharing)
