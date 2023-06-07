@@ -21,3 +21,7 @@ Below are a list of projects completed pertaining to both Data Science & Analyti
   - [PowerPoint](https://docs.google.com/presentation/d/1US7DDsIgkR-8h73uJgX0iVAmzM6LXaTV/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
   - [Paper](https://docs.google.com/presentation/d/1US7DDsIgkR-8h73uJgX0iVAmzM6LXaTV/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
   - [Python Notebook](https://drive.google.com/file/d/1USzXmF8iNmdQNtYVlH6DRFUEzZCpsoVg/view?usp=sharing)
+
+<br>
+
+- 
