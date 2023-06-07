@@ -4,4 +4,5 @@
 @import "jekyll-theme-modernist";
 header {
   background: red;
+  background: linear-gradient(red, red);
 }
