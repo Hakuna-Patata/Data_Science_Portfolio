@@ -32,8 +32,14 @@ Below are a list of projects completed pertaining to both Data Science & Analyti
   - [Paper](https://docs.google.com/document/d/1TLhbJTubJSGr-i8aOeTuBz9of5lns7Ks/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
   - [Python Notebook](https://colab.research.google.com/drive/1YzhB6UMWHc4ucwXYsxlWabUf_L5Ob-Lb?usp=sharing)
 
-- Airline Safety - EDA
-  - [PowerPoint](https://docs.google.com/presentation/d/1p2fkEaVCth3oUj1cn9v3MvuHW0dYE4hG/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
+- Airline Safety - EDA & Presentation
   - [Infographic](https://drive.google.com/file/d/1oiHMTRnT7lJi8NEDXNRZbR56FoPM2hif/view?usp=sharing)
   - [Tableau Workbook](https://github.com/Hakuna-Patata/Data_Science_Portfolio/blob/main/files/Airline%20Safety.twbx)
   - [Video Presentation](https://github.com/Hakuna-Patata/Data_Science_Portfolio/blob/main/files/DSC640%20-%20Final%20Project%20(video).mp4)
+
+- Computer Vision via Neural Networks - Predictive Modeling
+  - [Python Notebook](https://colab.research.google.com/drive/1TUhXqaK2fYw07gbNBOr_0i2uEai7IASM?usp=sharing)
+  - Tensorboard Analysis:
+    - [6.1](https://tensorboard.dev/experiment/40FRlIMbRda0rJF8EFAG3g/#scalars)
+    - [6.2a](https://tensorboard.dev/experiment/1o60vKXoTMa0PdMTPOUDsQ/#scalars)
+    - [6.2b](https://tensorboard.dev/experiment/qDrOXDMbQ7OnU4N5GBQe2A/#scalars)
