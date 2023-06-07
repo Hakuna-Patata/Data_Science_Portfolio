@@ -1,4 +1,4 @@
-## About Me
+### About Me
 
 Hello, my name is Patrick Weatherford. I have been in Healthcare since 2010 but in 2017 I got into Healthcare Data & Analytics and I have been passionate about everything data since then. 
 
