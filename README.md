@@ -37,9 +37,15 @@ Below are a list of projects completed pertaining to both Data Science & Analyti
   - [Tableau Workbook](https://github.com/Hakuna-Patata/Data_Science_Portfolio/blob/main/files/Airline%20Safety.twbx)
   - [Video Presentation](https://github.com/Hakuna-Patata/Data_Science_Portfolio/blob/main/files/DSC640%20-%20Final%20Project%20(video).mp4)
 
+- Predictive Modeling with R
+  - [Regression]
+
 - Computer Vision via Neural Networks - Predictive Modeling
   - [Python Notebook](https://colab.research.google.com/drive/1TUhXqaK2fYw07gbNBOr_0i2uEai7IASM?usp=sharing)
   - Tensorboard Analysis:
     - [6.1](https://tensorboard.dev/experiment/40FRlIMbRda0rJF8EFAG3g/#scalars)
     - [6.2a](https://tensorboard.dev/experiment/1o60vKXoTMa0PdMTPOUDsQ/#scalars)
     - [6.2b](https://tensorboard.dev/experiment/qDrOXDMbQ7OnU4N5GBQe2A/#scalars)
+
+- Data Storage and Compression Concepts - (No-SQL, Avro, Protobuff, Parquet)
+  - [Python Notebook](https://colab.research.google.com/drive/1Cj690LcWgBgJCDHnkFEg2p8wbkExaisR?usp=sharing)
