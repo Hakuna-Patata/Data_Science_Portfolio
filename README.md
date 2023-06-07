@@ -20,6 +20,11 @@ Below are a list of projects completed pertaining to both Data Science & Analyti
   - [Paper](https://docs.google.com/presentation/d/1US7DDsIgkR-8h73uJgX0iVAmzM6LXaTV/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
   - [Python Notebook](https://drive.google.com/file/d/1USzXmF8iNmdQNtYVlH6DRFUEzZCpsoVg/view?usp=sharing)
 
-<br>
+- Skin Cancer & Solar Cycle - EDA
+  - [Python Notebook](https://drive.google.com/file/d/1K5fic40m19wxcbhE1lyHMqaI-4OU6OSA/view?usp=sharing)
 
-- 
+- Fetal Health - EDA & Predictive Modeling
+  - [Paper](https://docs.google.com/document/d/1OxeLx0f_P_kg-5j4-ih8fEOqc4jQduaC/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
+  - [Python Notebook](https://drive.google.com/file/d/1P1XwGs2e5TQ6at7PrdpdCwF2I1Hqcssv/view?usp=sharing)
+
+
