@@ -27,4 +27,12 @@ Below are a list of projects completed pertaining to both Data Science & Analyti
   - [Paper](https://docs.google.com/document/d/1OxeLx0f_P_kg-5j4-ih8fEOqc4jQduaC/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
   - [Python Notebook](https://drive.google.com/file/d/1P1XwGs2e5TQ6at7PrdpdCwF2I1Hqcssv/view?usp=sharing)
 
+- Horse Racing Geolocation - EDA & Predictive Modeling
+  - [PowerPoint](https://docs.google.com/presentation/d/1G_vPiIBHCWRuM0gKi34CZmPpn4hKgpEn/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
+  - [Paper](https://docs.google.com/document/d/1TLhbJTubJSGr-i8aOeTuBz9of5lns7Ks/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
+  - [Python Notebook](https://colab.research.google.com/drive/1YzhB6UMWHc4ucwXYsxlWabUf_L5Ob-Lb?usp=sharing)
 
+- Airline Safety - EDA
+  - [PowerPoint](https://docs.google.com/presentation/d/1p2fkEaVCth3oUj1cn9v3MvuHW0dYE4hG/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
+  - [Infographic](https://drive.google.com/file/d/1oiHMTRnT7lJi8NEDXNRZbR56FoPM2hif/view?usp=sharing)
+  - [Video Presentation](https://drive.google.com/file/d/1p5WP6rxRRsLK6HxO3BuQRSzsHEH0S6oJ/view?usp=sharing)
