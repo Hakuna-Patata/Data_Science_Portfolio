@@ -32,6 +32,12 @@ Below are a list of projects completed pertaining to both Data Science & Analyti
   - [Paper](https://docs.google.com/document/d/1TLhbJTubJSGr-i8aOeTuBz9of5lns7Ks/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
   - [Python Notebook](https://colab.research.google.com/drive/1YzhB6UMWHc4ucwXYsxlWabUf_L5Ob-Lb?usp=sharing)
 
+- Retail Sales - Time Series Analysis
+  - [Python Notebook](https://colab.research.google.com/drive/1sVkzOTC3C3ne624sXKhd-cJP801mgygl)
+
+- Clustering & Principal Component Analysis (PCA)
+  - [Python Notebook](https://colab.research.google.com/drive/1sVkzOTC3C3ne624sXKhd-cJP801mgygl)
+
 - Airline Safety - EDA & Presentation
   - [Infographic](https://drive.google.com/file/d/1oiHMTRnT7lJi8NEDXNRZbR56FoPM2hif/view?usp=sharing)
   - [Tableau Workbook](https://github.com/Hakuna-Patata/Data_Science_Portfolio/blob/main/files/Airline%20Safety.twbx)
