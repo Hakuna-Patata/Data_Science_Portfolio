@@ -35,4 +35,5 @@ Below are a list of projects completed pertaining to both Data Science & Analyti
 - Airline Safety - EDA
   - [PowerPoint](https://docs.google.com/presentation/d/1p2fkEaVCth3oUj1cn9v3MvuHW0dYE4hG/edit?usp=sharing&ouid=104328338474330757527&rtpof=true&sd=true)
   - [Infographic](https://drive.google.com/file/d/1oiHMTRnT7lJi8NEDXNRZbR56FoPM2hif/view?usp=sharing)
+  - [Tableau Workbook](https://github.com/Hakuna-Patata/Data_Science_Portfolio/blob/main/files/Airline%20Safety.twbx)
   - [Video Presentation](https://github.com/Hakuna-Patata/Data_Science_Portfolio/blob/main/files/DSC640%20-%20Final%20Project%20(video).mp4)
